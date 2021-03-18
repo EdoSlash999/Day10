@@ -1,7 +1,7 @@
 var school = {
   name: "Arena",
   location: "Sarajevo",
-  established: "2020",
+  established: "2020"
 };
 
 function myFunction(name) {

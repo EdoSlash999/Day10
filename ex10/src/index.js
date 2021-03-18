@@ -7,7 +7,7 @@ function myFunction() {
       formats: {
         1: "CD",
         2: "8T",
-        3: "LP",
+        3: "LP"
       },
       gold: true,
     },
@@ -19,7 +19,7 @@ function myFunction() {
       formats: {
         1: "MP4",
         2: "MP3",
-        3: "MOV",
+        3: "MOV"
       },
     },
   };

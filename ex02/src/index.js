@@ -1,7 +1,7 @@
 var myClothes = {
   hat: "Fedora",
   shirt: "Nike",
-  shoes: "Converse",
+  shoes: "Converse"
 };
 
 function myFunction(myObj) {
