@@ -14,4 +14,4 @@ function myFunction(myObj) {
 
 console.log(myFunction(myClothes));
 
-module.exports = myFunction;
+module.exports = myFunction(myClothes);
